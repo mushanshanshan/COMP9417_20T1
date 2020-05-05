@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8e3baf-2323-4195-87ce-3636db683dd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="96673d36-1ea8-41d2-a2fc-b7a6105c88c5" />
+  <component name="ProjectId" id="1ZHFK6UuKWEklmvq4Vokvo62N9U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.Titanic">
+    <configuration name="Titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework2-wzy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2-wzy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Titanic" />
+        <item itemvalue="Python.homework2-wzy" />
+        <item itemvalue="Python.teat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8e3baf-2323-4195-87ce-3636db683dd3" name="Default Changelist" comment="" />
+      <created>1584488045497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584488045497</updated>
+      <workItem from="1584488050497" duration="1003000" />
+      <workItem from="1584662910788" duration="6117000" />
+      <workItem from="1584696280287" duration="188000" />
+      <workItem from="1585012207335" duration="1791000" />
+      <workItem from="1585043969783" duration="365000" />
+      <workItem from="1585089345951" duration="2304000" />
+      <workItem from="1585098837545" duration="2324000" />
+      <workItem from="1585102071809" duration="238000" />
+      <workItem from="1585112174540" duration="630000" />
+      <workItem from="1585116489420" duration="1186000" />
+      <workItem from="1585262761228" duration="297000" />
+      <workItem from="1585436486565" duration="109000" />
+      <workItem from="1585807560625" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2262" height="252" key="GridCell.Tab.0.bottom" timestamp="1585312016043">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="2262" height="252" key="GridCell.Tab.0.bottom/-1152.-73.1152.2025/0.23.2304.1218/2304.23.1920.1057@0.23.2304.1218" timestamp="1585312016043" />
+    <state width="2262" height="252" key="GridCell.Tab.0.center" timestamp="1585312016042">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="2262" height="252" key="GridCell.Tab.0.center/-1152.-73.1152.2025/0.23.2304.1218/2304.23.1920.1057@0.23.2304.1218" timestamp="1585312016042" />
+    <state width="2262" height="252" key="GridCell.Tab.0.left" timestamp="1585312016041">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="2262" height="252" key="GridCell.Tab.0.left/-1152.-73.1152.2025/0.23.2304.1218/2304.23.1920.1057@0.23.2304.1218" timestamp="1585312016041" />
+    <state width="2262" height="252" key="GridCell.Tab.0.right" timestamp="1585312016043">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="2262" height="252" key="GridCell.Tab.0.right/-1152.-73.1152.2025/0.23.2304.1218/2304.23.1920.1057@0.23.2304.1218" timestamp="1585312016043" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework2$homework2_wzy.coverage" NAME="homework2-wzy Coverage Results" MODIFIED="1585101007781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Homework2$teat.coverage" NAME="teat Coverage Results" MODIFIED="1584674770937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Homework2$Titanic.coverage" NAME="Titanic Coverage Results" MODIFIED="1585262803068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
